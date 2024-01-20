@@ -1,4 +1,4 @@
-# ig-template-base
-package-id = fhir.base.template
+# physical-exam-ig
+package-id = physical.exam.ig
 
-Base IG template managed by HL7 but usable by anyone (no logos).  The foundation for most HL7-published IGs
+An IG to describe a basic, general, physical examination. Based on the Base IG template.
