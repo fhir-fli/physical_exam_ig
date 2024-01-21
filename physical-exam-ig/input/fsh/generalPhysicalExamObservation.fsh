@@ -7,4 +7,4 @@ Description: "A profile for various observations recorded during a general physi
 // Common constraints for physical exam observations
 * category = #exam
 * code from PhysicalExamValueSet (required)
-* subject only Patient
+* subject only Reference(Patient)
